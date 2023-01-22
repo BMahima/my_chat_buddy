@@ -17,7 +17,7 @@ nlu:
     - goodevening
     - good afternoon
     - yo
-
+#stories
 - intent: goodbye
   examples: |
     - cu
